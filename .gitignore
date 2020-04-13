@@ -9,3 +9,6 @@ app/__pycache__/
 .idea/
 
 config/local_settings.py
+
+app/api/__pycache__
+config/__pycache__
